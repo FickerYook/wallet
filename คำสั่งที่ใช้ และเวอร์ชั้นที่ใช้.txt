@@ -1,0 +1,13 @@
+คำสั่งที่ต้องใช้ commandline
+npm create vue@latest
+cd <your-project-name>
+npm install
+npm run serve
+npm add vuetify
+
+เวลาในการปกติ 20-30 นาที
+
+ใช้ Node / Ve / CLI / NPM / เวอร์ชั้นยใด
+vue/cli 5.0.8
+Node20.2
+Npm : 8.19.4
